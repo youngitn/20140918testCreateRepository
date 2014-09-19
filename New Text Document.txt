@@ -1,7 +1,10 @@
 <a>
 <<<<<<< HEAD
+<<<<<<< HEAD
 2222222222222222
 =======
 this is branch???????
 >>>>>>> origin/testIsHaveRealFile
+=======
+>>>>>>> parent of 7afa2b3... test
 </a>
